@@ -102,5 +102,4 @@ public class MetricsApiTest {
 		mockMvc.perform(post("/metrics/api").contentType(MediaType.APPLICATION_JSON)
 				.content(objectMapper.writeValueAsString(""))).andDo(print()).andExpect(status().isCreated());
 	}
-
 }
