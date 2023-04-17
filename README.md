@@ -3,7 +3,7 @@
 <p>I am documenting samples on my Github because over the years I have learned many new things but have not documented them on my github, I believe this is important, that is why I made this sample.</P>
 
 ## This is a sample project. 
-### I developed this project to test the integration of a springboot project with AWS DynamoDB.
+<p>I developed this project to test the integration of a springboot project with AWS DynamoDB.</p>
 <p>Additional features were implemented for this project, such as: Integrated and conternalized testing, exception handling and Clean Code.</P>
 
 ### Notes
